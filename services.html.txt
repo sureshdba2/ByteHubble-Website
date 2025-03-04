@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ByteHubble - Services</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>ByteHubble</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="solutions.html">Solutions</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <section>
+      <h2>Our Services</h2>
+      <ul>
+        <li><strong>Database Optimization:</strong> Improve performance and efficiency of your databases.</li>
+        <li><strong>Query Optimization:</strong> Speed up query execution and reduce latency.</li>
+        <li><strong>Incident Reduction:</strong> Minimize database incidents and downtime.</li>
+        <li><strong>Automation:</strong> Automate manual database tasks for better productivity.</li>
+        <li><strong>Upgrades & Migrations:</strong> Seamlessly upgrade and migrate databases across platforms.</li>
+        <li><strong>Cost Reduction:</strong> Optimize sizing to reduce costs on managed databases and hardware.</li>
+      </ul>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2023 ByteHubble. All rights reserved.</p>
+  </footer>
+</body>
+</html>
